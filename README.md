@@ -1,4 +1,4 @@
-# DataVisualization
+# Data Visualization
 
 According to sas.com, Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.
 
@@ -30,7 +30,7 @@ The article [here](https://www.analyticsvidhya.com/blog/2015/05/data-visualizati
   >> Multivariate (Multidimensional) Visualization. □ Visualization of datasets that have more than three variables.
   In this article, Dipanjan Sarkar (GDE) explains the art of effective viz for multi-dimensional data. [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
   
-## Aditional Links
+## Learn More
 1. [A step-by-step guide to Data Visualizations in Python](https://medium.com/codex/step-by-step-guide-to-data-visualizations-in-python-b322129a1540)
 2. [Data Visualization with Python](https://www.youtube.com/watch?v=-sxwqa9dXEY)
 3. [Exploring Data with python from scratch](https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/)
