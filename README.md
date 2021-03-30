@@ -16,14 +16,14 @@ This can be helpful when exploring and getting to know a dataset and can help wi
 It is very important Machine Learning Engineer, Data Scientist, Analyst etc understand in detail what Data Visualization is all about, how to complete a data visualization task for any kind of dataset, how to present insights, findings and make better judgement using Data Visualization.
 
 ## Tools/Libraries to execute data visualization tasks
-1. [Matplotlib](https://matplotlib.org/stable/tutorials/index.html)
-2. [Seaborn](https://seaborn.pydata.org/tutorial.html)
-3. [Plotly](https://plotly.com/python/plotly-express/)
+1. [Matplotlib](https://matplotlib.org/stable/tutorials/index.html): a base visualization python library that makes data come to life. Simple and easy to learn and use
+2. [Seaborn](https://seaborn.pydata.org/tutorial.html): a high-level python visualization library based on matplotlib. It offers additional charts and beautiful colors
+3. [Plotly](https://plotly.com/python/plotly-express/): provides graphing libraries for Python, R, MATLAB, Perl, Julia, Arduino, and REST.  For python, plotly express (a module in plotly) is most popular for its high end nature, and plotly graph-objects (another module in plotly) for its vast features and customisation capabilities. Closely related, is plotly dash - a python framework well known for delivering excellent visualisation apps and dashboards. The winning point for plotly is the fact that it produces interactive chats,  something you cannot easily achieve with matplotlib and seaborn.
 4. **Bokeh** is an interactive visualization library for modern web browsers. It provides elegant, concise construction of versatile graphics, and affords high-performance interactivity over large or streaming datasets. Bokeh can help anyone who would like to quickly and easily make interactive plots, dashboards, and data applications. See a live notebook [here to practice with Bokeh](https://hub.gke2.mybinder.org/user/bokeh-bokeh-notebooks-ddr2j6yu/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
-5. [d3.js](https://www.fullstackpython.com/d3-js.html)
+5. [d3.js](https://www.fullstackpython.com/d3-js.html): a JavaScript library for producing dynamic, interactive data visualizations in web browsers.
 6. [Power BI](https://www.tutorialspoint.com/power_bi/index.htm) :: Power BI is a Data Visualization and Business Intelligence tool that converts data from different data sources to interactive dashboards and BI reports. Power BI suite provides multiple software, connector, and services - Power BI desktop, Power BI service based on Saas, and mobile Power BI apps available for different platforms. These set of services are used by business users to consume data and build BI reports. This tutorial covers all the important concepts in Power BI and provides a foundational understanding on how to use Power BI.
 7. [Tableau](https://www.youtube.com/watch?v=fO7g0pnWaRA) :: Tableau is a Business Intelligence tool for visually analyzing the data. Users can create and distribute an interactive and shareable dashboard, which depict the trends, variations, and density of the data in the form of graphs and charts. Tableau can connect to files, relational and Big Data sources to acquire and process data. The software allows data blending and real-time collaboration, which makes it very unique. It is used by businesses, academic researchers, and many government organizations for visual data analysis. It is also positioned as a leader Business Intelligence and Analytics Platform in Gartner Magic Quadrant. 
-
+8. [Altair](https://altair-viz.github.io/): a statistical visualization library for Python
 
 
 ## Key Topics in Data Visualization
@@ -40,6 +40,21 @@ The article [here](https://www.analyticsvidhya.com/blog/2015/05/data-visualizati
 3. **Multi-variate Analysis**
   >> Multivariate (Multidimensional) Visualization. □ Visualization of datasets that have more than three variables.
   In this article, Dipanjan Sarkar (GDE) explains the art of effective viz for multi-dimensional data. [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+  
+4. **Model Visualization**
+  >> Here we have charts like
+  >> 1. [Clustering](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb): The most common algorithm used is k-means. k-Means starts by choosing k random centers which you can set yourself. Then, all data points are assigned to the closest center based on their Euclidean distance. Next, new centers are calculated and the data points are updated (see gif below). This process continuous until clusters do not change between iterations.
+  >> ![k-means](https://miro.medium.com/max/480/1*umzqxI8Oeje8nU5EItF5dw.gif)
+  >> 2. [Dendograms](https://www.data-to-viz.com/graph/dendrogram.html): A dendrogram is a network structure. It is constituted of a root node that gives birth to several nodes connected by edges or branches. The last nodes of the hierarchy are called leaves. 
+  >> ![dendogram](https://www.data-to-viz.com/graph/dendrogram_files/figure-html/unnamed-chunk-3-1.png)
+  >> 3. [Heatmaps](https://blog.quantinsti.com/creating-heatmap-using-python-seaborn/): A heatmap is a two-dimensional graphical representation of data where the individual values that are contained in a matrix are represented as colors. 
+  >> 4. [DBSCAN](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb): (Density Based Spatial Clustering Application of Noise) which clusters data points if they are sufficiently dense. It identifies clusters and expands them by scanning neighborhoods.
+  
+## Charts Explanations
+This section contains links that explains how various chart relate to analysis, how to interpret the charts and when to use what chart
+1. [BoxPlot Explained](https://www.simplypsychology.org/boxplots.html)
+2. [What is a Violinplot?](https://www.simplypsychology.org/boxplots.html)
+3. [Linecharts in Detail](https://chartio.com/learn/charts/line-chart-complete-guide/)
   
 ## Learn More
 1. [A step-by-step guide to Data Visualizations in Python](https://medium.com/codex/step-by-step-guide-to-data-visualizations-in-python-b322129a1540)
