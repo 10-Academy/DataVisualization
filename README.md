@@ -1,5 +1,4 @@
 # Data Visualization
--What differentiates beginners from experts in this competency?
 
 ## What is Data Visualization
 
@@ -33,6 +32,8 @@ It is very important Machine Learning Engineer, Data Scientist, Analyst etc unde
 ## Examples of how you probably used Data Visualization today without realizing it
 ++Google Analytics ebsite flow incl. data drill-down
 
+## What differentiates beginners from experts in this competency?
+++Add here
 
 ## Tools/Libraries to execute data visualization tasks
 1. [Matplotlib](https://matplotlib.org/stable/tutorials/index.html)
