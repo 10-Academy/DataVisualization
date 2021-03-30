@@ -1,19 +1,38 @@
 # Data Visualization
+-What differentiates beginners from experts in this competency?
 
-According to sas.com, Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.
+## What is Data Visualization
+
+According to sas.com, Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. 
+
+With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.
 
 The article attached [here](https://www.sas.com/en_us/insights/big-data/data-visualization.html) explains the **History of DataViz**, **The Current Trend of DataViz**, **How it's Used** and **How it works**
 
-SearchBusiness explains Data Visualization as it relate to Data Science. In their Definition, Data visualization is the practice of translating information into a visual context, such as a map or graph, to make data easier for the human brain to understand and pull insights from. The main goal of data visualization is to make it easier to identify patterns, trends and outliers in large data sets. The term is often used interchangeably with others, including information graphics, information visualization and statistical graphics.
+SearchBusiness explains Data Visualization as it relates to Data Science. In their Definition, Data Visualization is the practice of translating information into a visual context, such as a map or graph, to make data easier for the human brain to understand and pull insights from. The main goal of data visualization is to make it easier to identify patterns, trends and outliers in large data sets. The term is often used interchangeably with others, including information graphics, information visualization and statistical graphics.
 
 They provide examples of Visualizations, some use cases in Business and importance. Read in details [here](https://searchbusinessanalytics.techtarget.com/definition/data-visualization).
 
-## Importance of Understanding Data Visualization
-As stated by Jason Brownlee (PhD), Data visualization is an important skill in applied statistics and machine learning.
+## How will I use XXX competency in my ML career?
+++How Data Vis is used by the business incl. potential linkages to interesting sample visualizations.
+
+++Where Data Viz fits into the ML Workflow
+
+## Why is it important to understand Data Visualization before starting my ML career?
+As stated by Jason Brownlee (PhD), Data Visualization is an important skill in applied statistics and machine learning.
 Statistics does indeed focus on quantitative descriptions and estimations of data. Data visualization provides an important suite of tools for gaining a qualitative understanding.
 This can be helpful when exploring and getting to know a dataset and can help with identifying patterns, corrupt data, outliers, and much more. With a little domain knowledge, data visualizations can be used to express and demonstrate key relationships in plots and charts that are more visceral to yourself and stakeholders than measures of association or significance.
 
 It is very important Machine Learning Engineer, Data Scientist, Analyst etc understand in detail what Data Visualization is all about, how to complete a data visualization task for any kind of dataset, how to present insights, findings and make better judgement using Data Visualization.
+
+## How Data Visualization helps to solve a problem
+++Visualization helps you to see 'what's happening in your data'
+++Visualization can help you decide which analysis to use
+++Visualization is what the business probably speaks
+
+## Examples of how you probably used Data Visualization today without realizing it
+++Google Analytics ebsite flow incl. data drill-down
+
 
 ## Tools/Libraries to execute data visualization tasks
 1. [Matplotlib](https://matplotlib.org/stable/tutorials/index.html)
@@ -25,8 +44,7 @@ It is very important Machine Learning Engineer, Data Scientist, Analyst etc unde
 7. [Tableau](https://www.youtube.com/watch?v=fO7g0pnWaRA) :: Tableau is a Business Intelligence tool for visually analyzing the data. Users can create and distribute an interactive and shareable dashboard, which depict the trends, variations, and density of the data in the form of graphs and charts. Tableau can connect to files, relational and Big Data sources to acquire and process data. The software allows data blending and real-time collaboration, which makes it very unique. It is used by businesses, academic researchers, and many government organizations for visual data analysis. It is also positioned as a leader Business Intelligence and Analytics Platform in Gartner Magic Quadrant. 
 
 
-
-## Key Topics in Data Visualization
+## What components make up and what are key topics in Data Visualization
 1. Uni-variate Analysis
 2. Bi-variate Analysis
 3. Multi-variate Analysis
@@ -40,6 +58,9 @@ The article [here](https://www.analyticsvidhya.com/blog/2015/05/data-visualizati
 3. **Multi-variate Analysis**
   >> Multivariate (Multidimensional) Visualization. □ Visualization of datasets that have more than three variables.
   In this article, Dipanjan Sarkar (GDE) explains the art of effective viz for multi-dimensional data. [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+  
+  ++Tableau/PowerBI/other
+  ++Tools for Data viz which are part of AWS/GCP/Azure
   
 ## Learn More
 1. [A step-by-step guide to Data Visualizations in Python](https://medium.com/codex/step-by-step-guide-to-data-visualizations-in-python-b322129a1540)
