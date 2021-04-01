@@ -12,10 +12,14 @@ SearchBusiness explains Data Visualization as it relates to Data Science. In the
 
 They provide examples of Visualizations, some use cases in Business and importance. Read in details [here](https://searchbusinessanalytics.techtarget.com/definition/data-visualization).
 
-## How will I use XXX competency in my ML career?
+## How will I use Data Visualization in my ML career?
 ++How Data Vis is used by the business incl. potential linkages to interesting sample visualizations.
+Data Visualization is a very important skill to have for any ML practitioner. It is a tool to communicate with stakeholders your findings and what the data entails. For example,
+![dashboard](https://dreamreport.net/wp-content/uploads/Real-time-Dashboard.jpg)
+the image above is a dashboard and a good use case of data visualization skill. With the dashboard, you are communicating a lot of information to Business stakeholders without saying/using any ML jargoons that sometimes stakeholders can't relate to.
 
-++Where Data Viz fits into the ML Workflow
+Data Visualization helps uncover insights from our data. It is done before feature selection and engineering. It is to be carried out after Business Understanding and Data gathering. The output of a Data Visualization task can be a dashboard illustrating insights or a report in form of a slide deck communicating what the data entails. Data Visualization helps Data Scientist/Analyst etc build intuition about the results of the model.
+
 
 ## Why is it important to understand Data Visualization before starting my ML career?
 As stated by Jason Brownlee (PhD), Data Visualization is an important skill in applied statistics and machine learning.
@@ -25,15 +29,16 @@ This can be helpful when exploring and getting to know a dataset and can help wi
 It is very important Machine Learning Engineer, Data Scientist, Analyst etc understand in detail what Data Visualization is all about, how to complete a data visualization task for any kind of dataset, how to present insights, findings and make better judgement using Data Visualization.
 
 ## How Data Visualization helps to solve a problem
-++Visualization helps you to see 'what's happening in your data'
-++Visualization can help you decide which analysis to use
-++Visualization is what the business probably speaks
+Visualization helps you to see "what's happening in your data" <br>
+Visualization can help you decide which analysis to use <br>
+Visualization is what the business probably speaks <br>
 
 ## Examples of how you probably used Data Visualization today without realizing it
-++Google Analytics ebsite flow incl. data drill-down
+Pictures they say is lounder than words. Almost everybody has seen one or two meme images. Without saying anything you are already making inference from the picture. That is an example of Data Visualization. Now making good charts is not enough but making quality (clear, precise, neat) chart is very important. The essence is that, it must communicate something that can drive actions.
 
 ## What differentiates beginners from experts in this competency?
-++Add here
+The use and mastery of visualization tools. An expert should know how to use Viz tools like Tableau/Power BI etc to turn Business question into actionable insights <br>
+Understanding and being able to use libraries like seaborn, matplotlib etc to derive insights from data is good. Going a step further like designing an interactive dashboard, building an automatically updating dashboard is IMO an expert-like kind of thing.
 
 ## Tools/Libraries to execute data visualization tasks
 1. [Matplotlib](https://matplotlib.org/stable/tutorials/index.html)
@@ -59,9 +64,6 @@ The article [here](https://www.analyticsvidhya.com/blog/2015/05/data-visualizati
 3. **Multi-variate Analysis**
   >> Multivariate (Multidimensional) Visualization. □ Visualization of datasets that have more than three variables.
   In this article, Dipanjan Sarkar (GDE) explains the art of effective viz for multi-dimensional data. [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
-  
-  ++Tableau/PowerBI/other
-  ++Tools for Data viz which are part of AWS/GCP/Azure
   
 ## Learn More
 1. [A step-by-step guide to Data Visualizations in Python](https://medium.com/codex/step-by-step-guide-to-data-visualizations-in-python-b322129a1540)
