@@ -13,7 +13,7 @@ SearchBusiness explains Data Visualization as it relates to Data Science. In the
 They provide examples of Visualizations, some use cases in Business and importance. Read in details [here](https://searchbusinessanalytics.techtarget.com/definition/data-visualization).
 
 ## How will I use Data Visualization in my ML career?
-++How Data Vis is used by the business incl. potential linkages to interesting sample visualizations.
+How Data Vis is used by the business incl. potential linkages to interesting sample visualizations.
 Data Visualization is a very important skill to have for any ML practitioner. It is a tool to communicate with stakeholders your findings and what the data entails. For example,
 ![dashboard](https://dreamreport.net/wp-content/uploads/Real-time-Dashboard.jpg)
 the image above is a dashboard and a good use case of data visualization skill. With the dashboard, you are communicating a lot of information to Business stakeholders without saying/using any ML jargoons that sometimes stakeholders can't relate to.
