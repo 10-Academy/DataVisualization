@@ -1,19 +1,44 @@
 # Data Visualization
 
-According to sas.com, Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.
+## What is Data Visualization
+
+According to sas.com, Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. 
+
+With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.
 
 The article attached [here](https://www.sas.com/en_us/insights/big-data/data-visualization.html) explains the **History of DataViz**, **The Current Trend of DataViz**, **How it's Used** and **How it works**
 
-SearchBusiness explains Data Visualization as it relate to Data Science. In their Definition, Data visualization is the practice of translating information into a visual context, such as a map or graph, to make data easier for the human brain to understand and pull insights from. The main goal of data visualization is to make it easier to identify patterns, trends and outliers in large data sets. The term is often used interchangeably with others, including information graphics, information visualization and statistical graphics.
+SearchBusiness explains Data Visualization as it relates to Data Science. In their Definition, Data Visualization is the practice of translating information into a visual context, such as a map or graph, to make data easier for the human brain to understand and pull insights from. The main goal of data visualization is to make it easier to identify patterns, trends and outliers in large data sets. The term is often used interchangeably with others, including information graphics, information visualization and statistical graphics.
 
 They provide examples of Visualizations, some use cases in Business and importance. Read in details [here](https://searchbusinessanalytics.techtarget.com/definition/data-visualization).
 
-## Importance of Understanding Data Visualization
-As stated by Jason Brownlee (PhD), Data visualization is an important skill in applied statistics and machine learning.
+## How will I use Data Visualization in my ML career?
+++How Data Vis is used by the business incl. potential linkages to interesting sample visualizations.
+Data Visualization is a very important skill to have for any ML practitioner. It is a tool to communicate with stakeholders your findings and what the data entails. For example,
+![dashboard](https://dreamreport.net/wp-content/uploads/Real-time-Dashboard.jpg)
+the image above is a dashboard and a good use case of data visualization skill. With the dashboard, you are communicating a lot of information to Business stakeholders without saying/using any ML jargoons that sometimes stakeholders can't relate to.
+
+Data Visualization helps uncover insights from our data. It is done before feature selection and engineering. It is to be carried out after Business Understanding and Data gathering. The output of a Data Visualization task can be a dashboard illustrating insights or a report in form of a slide deck communicating what the data entails. Data Visualization helps Data Scientist/Analyst etc build intuition about the results of the model.
+
+
+## Why is it important to understand Data Visualization before starting my ML career?
+As stated by Jason Brownlee (PhD), Data Visualization is an important skill in applied statistics and machine learning.
 Statistics does indeed focus on quantitative descriptions and estimations of data. Data visualization provides an important suite of tools for gaining a qualitative understanding.
 This can be helpful when exploring and getting to know a dataset and can help with identifying patterns, corrupt data, outliers, and much more. With a little domain knowledge, data visualizations can be used to express and demonstrate key relationships in plots and charts that are more visceral to yourself and stakeholders than measures of association or significance.
 
 It is very important Machine Learning Engineer, Data Scientist, Analyst etc understand in detail what Data Visualization is all about, how to complete a data visualization task for any kind of dataset, how to present insights, findings and make better judgement using Data Visualization.
+
+## How Data Visualization helps to solve a problem
+Visualization helps you to see "what's happening in your data" <br>
+Visualization can help you decide which analysis to use <br>
+Visualization is what the business probably speaks <br>
+
+## Examples of how you probably used Data Visualization today without realizing it
+Pictures they say is lounder than words. Almost everybody has seen one or two meme images. Without saying anything you are already making inference from the picture. That is an example of Data Visualization. Now making good charts is not enough but making quality (clear, precise, neat) chart is very important. The essence is that, it must communicate something that can drive actions.
+
+## What differentiates beginners from experts in this competency?
+The use and mastery of visualization tools. An expert should know how to use Viz tools like Tableau/Power BI etc to turn Business question into actionable insights <br>
+Understanding and being able to use libraries like seaborn, matplotlib etc to derive insights from data is good. Going a step further like designing an interactive dashboard, building an automatically updating dashboard is IMO an expert-like kind of thing.
 
 ## Tools/Libraries to execute data visualization tasks
 1. [Matplotlib](https://matplotlib.org/stable/tutorials/index.html): a base visualization python library that makes data come to life. Simple and easy to learn and use
@@ -25,8 +50,7 @@ It is very important Machine Learning Engineer, Data Scientist, Analyst etc unde
 7. [Tableau](https://www.youtube.com/watch?v=fO7g0pnWaRA) :: Tableau is a Business Intelligence tool for visually analyzing the data. Users can create and distribute an interactive and shareable dashboard, which depict the trends, variations, and density of the data in the form of graphs and charts. Tableau can connect to files, relational and Big Data sources to acquire and process data. The software allows data blending and real-time collaboration, which makes it very unique. It is used by businesses, academic researchers, and many government organizations for visual data analysis. It is also positioned as a leader Business Intelligence and Analytics Platform in Gartner Magic Quadrant. 
 8. [Altair](https://altair-viz.github.io/): a statistical visualization library for Python
 
-
-## Key Topics in Data Visualization
+## What components make up and what are key topics in Data Visualization
 1. Uni-variate Analysis
 2. Bi-variate Analysis
 3. Multi-variate Analysis
