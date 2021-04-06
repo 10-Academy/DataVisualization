@@ -54,6 +54,7 @@ Understanding and being able to use libraries like seaborn, matplotlib etc to de
 1. Uni-variate Analysis
 2. Bi-variate Analysis
 3. Multi-variate Analysis
+4. Model Visualization*
 
 The article [here](https://www.analyticsvidhya.com/blog/2015/05/data-visualization-resource/) explains the different kinds of chart to explore data and provides some examples
 1. **Uni-variate Analysis**
@@ -73,6 +74,21 @@ The article [here](https://www.analyticsvidhya.com/blog/2015/05/data-visualizati
   >> ![dendogram](https://www.data-to-viz.com/graph/dendrogram_files/figure-html/unnamed-chunk-3-1.png)
   >> 3. [Heatmaps](https://blog.quantinsti.com/creating-heatmap-using-python-seaborn/): A heatmap is a two-dimensional graphical representation of data where the individual values that are contained in a matrix are represented as colors. 
   >> 4. [DBSCAN](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb): (Density Based Spatial Clustering Application of Noise) which clusters data points if they are sufficiently dense. It identifies clusters and expands them by scanning neighborhoods.
+  
+  
+## What Differentiate a Beginner from an Expert in this Competency
+- **Beginner**
+
+  Beginner possess skills to use
+  -  Matplotlib and Seaborn to build charts that communicate insights
+  -  Plotly library to create interactive visualizations
+  -  Present charts as a slide deck 
+- **Experts**
+
+  Experts can use more complex tools and derive more hidden insights. Experts can
+  - Use Tableau/Power BI to create dashboards that automatically update as new data comes in
+  - Create Web App using streamlit/Plotly-Dash or D3.js to present Data Viz project
+  - Create attractive and interactive plots that tells useful story about the data
   
 ## Charts Explanations
 This section contains links that explains how various chart relate to analysis, how to interpret the charts and when to use what chart
